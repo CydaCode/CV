@@ -10,7 +10,7 @@ const WorkExperience =()=> {
                     <div style={{display: 'flex', marginTop:'-2rem'}}>
                     <p >2022- till date</p>
                     </div>
-                <ul>
+                <ul style={{ marginTop:'-0.7rem', lineHeight: '20px'}}>
                     <li>Undegoing training on Web Development with React</li>
                 </ul>
             </div> <br />

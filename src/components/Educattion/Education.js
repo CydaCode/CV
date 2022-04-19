@@ -11,9 +11,9 @@ const Education =()=>{
                 <div style={{display: 'flex', marginTop:'-2rem'}}>
                     <div style={{display: 'flex'}}>
                         <img />
-                        <p>2013-2018</p>
+                        <p>2013-2018 </p>
                     </div>
-                    <div style={{display: 'flex'}}>
+                    <div style={{display: 'flex', paddingLeft: '4px'}}>
                         <img />
                         <p>Minna, Niger State</p>
                     </div>
