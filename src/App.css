@@ -1,0 +1,9 @@
+.cvflex {
+  display: block;
+}
+
+@media (min-width: 700px) {
+  .cvflex {
+    display: flex;
+  }
+}

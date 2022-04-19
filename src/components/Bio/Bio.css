@@ -1,0 +1,8 @@
+.design {
+    width: 100%;
+    border: 1px solid pink;
+    height: 10px;
+    background-color: #151e3d;
+    color: #151e3d;
+    border-radius: 4px;
+}

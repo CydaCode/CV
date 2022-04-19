@@ -1,0 +1,13 @@
+.profileset{
+    text-align: center;
+}
+
+.profileset p {
+    margin-top: -0.8rem;
+}
+
+@media (min-width: 700px)  {
+    .profileset{
+        text-align: left;
+    }
+}
